@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I started play _basketball_ when I was in __middle school__
+* I also learnt *coding* when I was **twelve**
